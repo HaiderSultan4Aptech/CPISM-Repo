@@ -1,0 +1,22 @@
+.main-section{
+    border: 0px solid;
+    height: 390px;
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 3px;
+}
+
+.banner1{
+    border: 0px solid;
+    height: 347px;
+    width: 990px;
+   
+}
+
+.banner2{
+    border: 0px solid;
+    height: 347px;
+    width: 200px;
+    margin-left:5px ;
+}
